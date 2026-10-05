@@ -1,0 +1,122 @@
+[
+  {
+    "studentCode": "SV001",
+    "fullName": "Nguyen Van An",
+    "gender": "Male",
+    "dateOfBirth": "2004-03-15",
+    "email": "an.nguyen@example.com",
+    "major": "Information Technology",
+    "year": 3,
+    "gpa": 3.25
+  },
+  {
+    "studentCode": "SV002",
+    "fullName": "Tran Thi Binh",
+    "gender": "Female",
+    "dateOfBirth": "2004-07-22",
+    "email": "binh.tran@example.com",
+    "major": "Information Technology",
+    "year": 3,
+    "gpa": 3.65
+  },
+  {
+    "studentCode": "SV003",
+    "fullName": "Le Minh Cuong",
+    "gender": "Male",
+    "dateOfBirth": "2005-01-10",
+    "email": "cuong.le@example.com",
+    "major": "Computer Science",
+    "year": 2,
+    "gpa": 3.10
+  },
+  {
+    "studentCode": "SV004",
+    "fullName": "Pham Thu Ha",
+    "gender": "Female",
+    "dateOfBirth": "2005-09-05",
+    "email": "ha.pham@example.com",
+    "major": "Business Administration",
+    "year": 2,
+    "gpa": 3.45
+  },
+  {
+    "studentCode": "SV005",
+    "fullName": "Do Quang Huy",
+    "gender": "Male",
+    "dateOfBirth": "2003-12-18",
+    "email": "huy.do@example.com",
+    "major": "Information Technology",
+    "year": 4,
+    "gpa": 2.95
+  },
+  {
+    "studentCode": "SV006",
+    "fullName": "Hoang Ngoc Lan",
+    "gender": "Female",
+    "dateOfBirth": "2004-05-30",
+    "email": "lan.hoang@example.com",
+    "major": "Computer Science",
+    "year": 3,
+    "gpa": 3.80
+  },
+  {
+    "studentCode": "SV007",
+    "fullName": "Vu Duc Minh",
+    "gender": "Male",
+    "dateOfBirth": "2004-11-12",
+    "email": "minh.vu@example.com",
+    "major": "Business Administration",
+    "year": 3,
+    "gpa": 3.20
+  },
+  {
+    "studentCode": "SV008",
+    "fullName": "Nguyen Thu Trang",
+    "gender": "Female",
+    "dateOfBirth": "2003-08-25",
+    "email": "trang.nguyen@example.com",
+    "major": "Information Technology",
+    "year": 4,
+    "gpa": 3.90
+  },
+  {
+    "studentCode": "SV009",
+    "fullName": "Pham Van Long",
+    "gender": "Male",
+    "dateOfBirth": "2005-04-17",
+    "email": "long.pham@example.com",
+    "major": "Computer Science",
+    "year": 2,
+    "gpa": 2.85
+  },
+  {
+    "studentCode": "SV010",
+    "fullName": "Bui Ngoc Mai",
+    "gender": "Female",
+    "dateOfBirth": "2004-02-08",
+    "email": "mai.bui@example.com",
+    "major": "Business Administration",
+    "year": 3,
+    "gpa": 3.55
+  },
+  {
+    "studentCode": "SV011",
+    "fullName": "Dang Hoang Nam",
+    "gender": "Male",
+    "dateOfBirth": "2003-06-20",
+    "email": "nam.dang@example.com",
+    "major": "Information Technology",
+    "year": 4,
+    "gpa": 3.05
+  },
+  {
+    "studentCode": "SV012",
+    "fullName": "Le Thanh Thao",
+    "gender": "Female",
+    "dateOfBirth": "2005-10-14",
+    "email": "thao.le@example.com",
+    "major": "Computer Science",
+    "year": 2,
+    "gpa": 3.70
+  }
+]
